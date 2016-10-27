@@ -22,6 +22,8 @@ public class ScrollingActivity extends AppCompatActivity {
 
         //
         clip();
+        //
+        findViewById(R.id.v_selector).setSelected(true);
     }
 
     //Clip Demo
